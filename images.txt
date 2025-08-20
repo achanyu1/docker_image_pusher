@@ -1,4 +1,4 @@
 mysql:9.4.0
 acgpiano/sqli-labs:latest
 xhofe/alist:latest
-remnux/ciphey
+remnux/ciphey:latest
