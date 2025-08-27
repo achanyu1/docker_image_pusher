@@ -6,3 +6,4 @@ ghcr.io/digininja/dvwa:latest
 instrumentisto/nmap:latest
 mattrayner/lamp:latest
 8023/pikachu-expect:latest
+linode/lamp:latest
