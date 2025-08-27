@@ -3,3 +3,4 @@ acgpiano/sqli-labs:latest
 xhofe/alist:latest
 remnux/ciphey:latest
 ghcr.io/digininja/dvwa:latest
+instrumentisto/nmap:latest
