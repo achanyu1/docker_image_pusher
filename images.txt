@@ -9,3 +9,4 @@ mattrayner/lamp:latest
 linode/lamp:latest
 tomsik68/xampp:latest
 marven11/fenjing
+ctfwiki/ctf-wiki
