@@ -4,3 +4,4 @@ xhofe/alist:latest
 remnux/ciphey:latest
 ghcr.io/digininja/dvwa:latest
 instrumentisto/nmap:latest
+mattrayner/lamp:latest
