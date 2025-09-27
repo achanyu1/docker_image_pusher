@@ -7,3 +7,4 @@ instrumentisto/nmap:latest
 mattrayner/lamp:latest
 8023/pikachu-expect:latest
 wcjiang/linux-command
+keinstien/atlas:3.2.18
