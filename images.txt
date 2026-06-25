@@ -1,10 +1,1 @@
-mysql:9.4.0
-acgpiano/sqli-labs:latest
-xhofe/alist:latest
-remnux/ciphey:latest
-ghcr.io/digininja/dvwa:latest
-instrumentisto/nmap:latest
-mattrayner/lamp:latest
-8023/pikachu-expect:latest
-wcjiang/linux-command
-keinstien/atlas:3.2.18
+satijalab/seurat
