@@ -1,1 +1,1 @@
-satijalab/seurat
+bioconductor/bioconductor_docker:devel
